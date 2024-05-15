@@ -144,14 +144,5 @@ while(True):
 
 
 
-
-
-
-
-
-
-
-
-
 ser_feather.close()   
 ser_arduino.close()  
