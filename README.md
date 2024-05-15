@@ -1,5 +1,5 @@
 # Vertical-Farm
-Vertical Farm project with DesignSpark, Wurth Elektronik, OKdo, and RS Pro.
+Vertical Farm project with DesignSpark, Würth Elektronik, OKdo, and RS Pro.
 See DesignSpark for the full writeup: https://www.rs-online.com/designspark/home
 
 The vertical farm automation system is made up of three parts:
