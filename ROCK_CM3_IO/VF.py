@@ -139,12 +139,6 @@ while(True):
 						
 
 				
-
-
-
-
-				# time.sleep(5) #
-				
 	except:
 		print("no connection")
 
